@@ -43,4 +43,4 @@ client.on('messageCreate', async (message) => {
 });
 
 // TOKEN DO BOT
-client.login('MTUwMzQ2MTgwNDUzNjM2OTE1Mg.GHktkU.UHvM3HzDmx4rU_veKuDgR0rbPUt7HeDWil13SE');
+client.login('MTUwMzQ2MTgwNDUzNjM2OTE1Mg.GvL22u.S9q5ZVPdZKMZQFyd9xdr1sdNUoblGnR8ZCS1DI');
