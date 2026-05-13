@@ -25,7 +25,4 @@ Bots de spam e malwares normalmente enviam mensagens sem verificar regras do ser
 - Node.js
 - discord.js v14
 
-## Instalação
 
-```bash
-npm install
